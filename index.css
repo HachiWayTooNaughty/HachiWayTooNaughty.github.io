@@ -1,0 +1,19 @@
+body {
+    background-color: lightgoldenrodyellow;
+    color: #EE9784;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black
+}
+
+img {
+    width: 300px; /* STATIC (ALWAYS 300PX) */
+    width: 30%;
+    height: 200px
+}
+
+.los-animales {
+    color:black
+}
