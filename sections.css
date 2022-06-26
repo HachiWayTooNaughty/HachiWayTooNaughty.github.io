@@ -1,0 +1,27 @@
+#calculator-wrapper {
+    background-color: blue;
+    background-position: right 500px;
+    width: 25%;
+    height: 500px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 18px 18px darkblue;
+}
+
+#top-window {
+    background-color: lightcoral;
+    background-position: center;
+    height: 25%;
+    margin-bottom: -25px;
+}
+
+#bottom-keys {
+    background-color: rgba(255, 255, 0, 0.928);
+    background-position: center;
+    height: 70%;
+    border-radius: 20px;
+}
+
+.number {
+    color: darkblue
+}
